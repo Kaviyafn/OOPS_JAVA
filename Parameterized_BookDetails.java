@@ -12,8 +12,8 @@ public class Parameterized_BookDetails {
 
     void display(){
         System.out.println("the title is:"+this.title);
-        System.out.println("the title is:"+this.author);
-        System.out.println("the title is:"+this.price);
+        System.out.println("the author name is:"+this.author);
+        System.out.println("the price is:"+this.price);
     }
 
 
